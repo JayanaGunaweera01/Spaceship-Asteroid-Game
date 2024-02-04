@@ -1,0 +1,55 @@
+{
+  "name": "SpaceRegion",
+  "description": "(this project was created automatically from file C:\\Users\\User\\Downloads\\Spaceship-Asteroids\\Spaceship-Asteroids-main\\Implementation\\SpaceRegion.mch)",
+  "machines": [
+    {
+      "name": "SpaceRegion",
+      "description": "",
+      "location": "SpaceRegion.mch",
+      "lastUsedPreferenceName": "default",
+      "temporalFormulas": [],
+      "ltlPatterns": [],
+      "symbolicCheckingFormulas": [],
+      "symbolicAnimationFormulas": [],
+      "testCases": [],
+      "traces": [],
+      "modelcheckingItems": [],
+      "proofObligationItems": [],
+      "simulations": [],
+      "visBVisualisation": null,
+      "historyChartItems": [],
+      "dotVisualizationItems": {},
+      "tableVisualizationItems": {}
+    },
+    {
+      "name": "Spaceship",
+      "description": "",
+      "location": "Spaceship.mch",
+      "lastUsedPreferenceName": "default",
+      "temporalFormulas": [],
+      "ltlPatterns": [],
+      "symbolicCheckingFormulas": [],
+      "symbolicAnimationFormulas": [],
+      "testCases": [],
+      "traces": [],
+      "modelcheckingItems": [],
+      "proofObligationItems": [],
+      "simulations": [],
+      "visBVisualisation": null,
+      "historyChartItems": [],
+      "dotVisualizationItems": {},
+      "tableVisualizationItems": {}
+    }
+  ],
+  "requirements": [],
+  "preferences": [],
+  "metadata": {
+    "fileType": "Project",
+    "formatVersion": 37,
+    "savedAt": "2024-01-06T13:23:53.765905Z",
+    "creator": "User",
+    "proB2KernelVersion": "4.12.2",
+    "proBCliVersion": null,
+    "modelName": null
+  }
+}

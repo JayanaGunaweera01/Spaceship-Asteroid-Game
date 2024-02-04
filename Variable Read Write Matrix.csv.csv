@@ -1,0 +1,7 @@
+Variable,Read by,Written by
+missionRoute,"['MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive','RegionsVisited']","['NewGame','MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive']"
+movements,"['MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive','AllMissionMovementsConsumedPower']","['NewGame','MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive']"
+numberOfCollisions,"['MoveUp','MoveDown','MoveForward','MoveBackward','MissionStatus']","['NewGame','MoveUp','MoveDown','MoveForward','MoveBackward']"
+power,"['NewGame','MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive','MissionStatus','GameStatus']","['NewGame','MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive']"
+xPosition,"['NewGame','MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive','MissionStatus','DockedAtStarbase','GameStatus']","['NewGame','MoveForward','MoveBackward','EngageWarpDrive']"
+yPosition,"['NewGame','MoveUp','MoveDown','MoveForward','MoveBackward','EngageWarpDrive','MissionStatus','DockedAtStarbase','GameStatus']","['NewGame','MoveUp','MoveDown','EngageWarpDrive']"

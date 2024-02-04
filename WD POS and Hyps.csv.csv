@@ -1,0 +1,8 @@
+PO Label,Discharged,PO Goal,(Necessary) Hypotheses,Source
+ASSERT/INIT,yes,HOME_BASE_COORDINATE : MAX_X_AXIS * MAX_Y_AXIS,HOME_BASE_COORDINATE = 1 |-> 1 & MAX_X_AXIS = 1 .. 12 & MAX_Y_AXIS = 1 .. 7, at line 74:17 - 74:69
+ASSERT/INIT,yes,HOME_BASE_COORDINATE : MAX_X_AXIS * MAX_Y_AXIS,HOME_BASE_COORDINATE = 1 |-> 1 & MAX_X_AXIS = 1 .. 12 & MAX_Y_AXIS = 1 .. 7, at line 75:17 - 75:69
+MoveUp,yes,movements : seq((MOVEMENT_TYPE)),movements : seq(MOVEMENT_TYPE), at line 111:37 - 111:57
+MoveDown,yes,movements : seq((MOVEMENT_TYPE)),movements : seq(MOVEMENT_TYPE), at line 148:37 - 148:59
+MoveForward,yes,movements : seq((MOVEMENT_TYPE)),movements : seq(MOVEMENT_TYPE), at line 185:37 - 185:62
+MoveBackward,yes,movements : seq((MOVEMENT_TYPE)),movements : seq(MOVEMENT_TYPE), at line 222:37 - 222:63
+EngageWarpDrive,yes,missionRoute : seq((INTEGER*INTEGER)),missionRoute : seq(EMPTY_SPACE_COORDINATES), at line 259:25 - 259:43

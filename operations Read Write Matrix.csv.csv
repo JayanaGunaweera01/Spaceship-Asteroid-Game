@@ -1,0 +1,12 @@
+Operation,ReadsGuard,ReadsAction,MustWrite,MayWrite
+NewGame,"['PowerForNormalMove','STAR_BASE_COORDINATE',power,xPosition,yPosition]","['HOME_BASE_COORDINATE','InitialPower','MAX_X_AXIS','MAX_Y_AXIS']","[missionRoute,movements,numberOfCollisions,power,xPosition,yPosition]",[]
+MoveUp,"['PowerForNormalMove','STAR_BASE_COORDINATE',power,xPosition,yPosition]","['ASTEROID_COORDINATES','PowerForNormalMove','PowerLossForAsteroidCollision','SPACE_REGION_COORDINATES',missionRoute,movements,numberOfCollisions,power,xPosition,yPosition]",[],"[missionRoute,movements,numberOfCollisions,power,yPosition]"
+MoveDown,"['PowerForNormalMove','STAR_BASE_COORDINATE',power,xPosition,yPosition]","['ASTEROID_COORDINATES','PowerForNormalMove','PowerLossForAsteroidCollision','SPACE_REGION_COORDINATES',missionRoute,movements,numberOfCollisions,power,xPosition,yPosition]",[],"[missionRoute,movements,numberOfCollisions,power,yPosition]"
+MoveForward,"['PowerForNormalMove','STAR_BASE_COORDINATE',power,xPosition,yPosition]","['ASTEROID_COORDINATES','PowerForNormalMove','PowerLossForAsteroidCollision','SPACE_REGION_COORDINATES',missionRoute,movements,numberOfCollisions,power,xPosition,yPosition]",[],"[missionRoute,movements,numberOfCollisions,power,xPosition]"
+MoveBackward,"['PowerForNormalMove','STAR_BASE_COORDINATE',power,xPosition,yPosition]","['ASTEROID_COORDINATES','PowerForNormalMove','PowerLossForAsteroidCollision','SPACE_REGION_COORDINATES',missionRoute,movements,numberOfCollisions,power,xPosition,yPosition]",[],"[missionRoute,movements,numberOfCollisions,power,xPosition]"
+EngageWarpDrive,"['PowerForNormalMove','STAR_BASE_COORDINATE',power,xPosition,yPosition]","['ASTEROID_COORDINATES','PowerForWarpDrive','SPACE_REGION_COORDINATES','STAR_BASE_COORDINATE',missionRoute,movements,power,xPosition,yPosition]",[],"[missionRoute,movements,power,xPosition,yPosition]"
+MissionStatus,[],"[numberOfCollisions,power,xPosition,yPosition]",[],[]
+RegionsVisited,[],[missionRoute],[],[]
+AllMissionMovementsConsumedPower,[],[movements],[],[]
+DockedAtStarbase,[],"['STAR_BASE_COORDINATE',xPosition,yPosition]",[],[]
+GameStatus,[],"['PowerForNormalMove','STAR_BASE_COORDINATE',power,xPosition,yPosition]",[],[]

@@ -1,0 +1,12 @@
+Operation,Covered
+NewGame,uncovered
+MoveUp,yes
+MoveDown,yes
+MoveForward,yes
+MoveBackward,yes
+EngageWarpDrive,yes
+MissionStatus,yes
+RegionsVisited,yes
+AllMissionMovementsConsumedPower,yes
+DockedAtStarbase,yes
+GameStatus,yes
